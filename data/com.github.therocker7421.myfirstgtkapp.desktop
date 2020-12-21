@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Hello World App
+GenericName=Hello World App
+Comment=My first app built with Vala and GTK!
+Categories=Utility;Education;
+Exec=com.github.therocker7421.myfirstgtkapp
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Hello;World;Example;
