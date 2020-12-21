@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2020 TheRocker7421 -->
+<component type="desktop">
+  <id>com.github.therocker7421.myfirstgtkapp</id>
+  <metadata_license>CC0</metadata_license>
+  <name>My First GTK App</name>
+  <summary>A GTK Window that displays Hello World in it.</summary>
+  <description>
+    <p></p>
+  </description>
+</component>
