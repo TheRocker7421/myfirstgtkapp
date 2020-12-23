@@ -6,6 +6,6 @@
   <name>My First GTK App</name>
   <summary>A GTK Window that displays Hello World in it.</summary>
   <description>
-    <p></p>
+    <p>An Hello World app created in Vala and C.</p>
   </description>
 </component>
